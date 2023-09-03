@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pavansai/static/css/main.d0e34d10.css",
-    "main.js": "/pavansai/static/js/main.c01983db.js",
+    "main.css": "/pavansai/static/css/main.c53f220c.css",
+    "main.js": "/pavansai/static/js/main.b8b9f763.js",
     "static/js/787.543c6cb3.chunk.js": "/pavansai/static/js/787.543c6cb3.chunk.js",
     "static/media/logo-s.png": "/pavansai/static/media/logo-s.0cf65665d8568244e936.png",
     "static/media/helvetica-neu.ttf": "/pavansai/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/pavansai/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/pavansai/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/pavansai/index.html",
-    "main.d0e34d10.css.map": "/pavansai/static/css/main.d0e34d10.css.map",
-    "main.c01983db.js.map": "/pavansai/static/js/main.c01983db.js.map",
+    "main.c53f220c.css.map": "/pavansai/static/css/main.c53f220c.css.map",
+    "main.b8b9f763.js.map": "/pavansai/static/js/main.b8b9f763.js.map",
     "787.543c6cb3.chunk.js.map": "/pavansai/static/js/787.543c6cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0e34d10.css",
-    "static/js/main.c01983db.js"
+    "static/css/main.c53f220c.css",
+    "static/js/main.b8b9f763.js"
   ]
 }
